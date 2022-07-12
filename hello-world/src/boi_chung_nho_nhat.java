@@ -8,7 +8,7 @@ public class boi_chung_nho_nhat {
         n1 = sc.nextInt();
         System.out.println("nhập số thứ hai: ");
         n2 = sc.nextInt();
-        for(int i = 1; i <= n1 && i <= n2; i++); {
+        for (int i = 1; i <= n1 && i <= n2; i++); {
             if(n1% 'i'==0 && n2% 'i'==0)
                 gcd = 'i';
         }
