@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class can_nang {
+public class Can_nang {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double weight, height, bmi;

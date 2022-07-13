@@ -1,7 +1,6 @@
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-public class dao_nguoc_phan_tu {
+public class Dao_nguoc_phan_tu {
     public static void main(String[] args) {
         int size;
         int[] array;

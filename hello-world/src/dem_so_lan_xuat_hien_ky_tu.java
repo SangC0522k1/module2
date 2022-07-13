@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dem_so_lan_xuat_hien_ky_tu {
+public class Dem_so_lan_xuat_hien_ky_tu {
     public static void main(String[] args) {
         String chuoi;
         char kyTu = 'b';

@@ -1,4 +1,4 @@
-public class bien {
+public class Bien {
     public static void main(String[] args) {
         int i = 15;
         float f = 20.5f;

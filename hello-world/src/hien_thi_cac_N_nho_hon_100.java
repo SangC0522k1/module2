@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hien_thi_cac_N_nho_hon_100 {
+public class Hien_thi_cac_N_nho_hon_100 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
             System.out.print("Nhập n = ");

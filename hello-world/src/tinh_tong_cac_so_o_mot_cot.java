@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinh_tong_cac_so_o_mot_cot {
+public class Tinh_tong_cac_so_o_mot_cot {
     public static void main(String[] args) {
         double[][] myArray;
         int column, row;

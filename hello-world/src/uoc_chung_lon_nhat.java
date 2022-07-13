@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class uoc_chung_lon_nhat {
+public class Uoc_chung_lon_nhat {
     public static void main(String[] args) {
         int num1, num2;
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class loi_chao {
+public class Loi_chao {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter yuor name:");

@@ -1,4 +1,4 @@
-public class tim_gia_tri_nho_nhat_trong_mang {
+public class Tim_gia_tri_nho_nhat_trong_mang {
     public static void main(String[] args) {
         int[] array = {5, 12, 7, 6, 3, 9, 10};
         int index = minValue(array);

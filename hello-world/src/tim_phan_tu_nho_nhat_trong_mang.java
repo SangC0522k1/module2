@@ -1,8 +1,6 @@
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
-public class tim_phan_tu_nho_nhat_trong_mang {
+public class Tim_phan_tu_nho_nhat_trong_mang {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

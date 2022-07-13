@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hello-world.iml" filepath="$PROJECT_DIR$/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../titv.VN/titv.VN.iml" filepath="$PROJECT_DIR$/../titv.VN/titv.VN.iml" />
     </modules>
   </component>
 </project>

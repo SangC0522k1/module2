@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nam_nhuan {
+public class Nam_nhuan {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int year;

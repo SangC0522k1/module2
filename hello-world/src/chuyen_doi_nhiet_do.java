@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class chuyen_doi_nhiet_do {
+public class Chuyen_doi_nhiet_do {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double fahrenheit;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tim_gia_tri_lon_nhat_trong_mang {
+public class Tim_gia_tri_lon_nhat_trong_mang {
     public static void main(String[] args) {
         int size;
         int[] array;

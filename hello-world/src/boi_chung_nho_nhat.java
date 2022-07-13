@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class boi_chung_nho_nhat {
+public class Boi_chung_nho_nhat {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1, n2, gcd = 1, lcm;

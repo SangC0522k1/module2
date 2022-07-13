@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nam {
+public class Nam {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("tháng bạn muốn điếm");

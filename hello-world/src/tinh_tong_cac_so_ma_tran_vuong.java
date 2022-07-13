@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinh_tong_cac_so_ma_tran_vuong {
+public class Tinh_tong_cac_so_ma_tran_vuong {
     public static void main(String[] args) {
         int n;
         int sum = 0;

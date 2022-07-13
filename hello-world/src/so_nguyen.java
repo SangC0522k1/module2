@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class so_nguyen {
+public class So_nguyen {
     public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
                 System.out.print("Nhập một số:");

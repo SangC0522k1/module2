@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ung_dung_dem_so {
+public class Ung_dung_dem_so {
     public static void main(String[] args) {
         int size;
         int[] array;

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class gop_mang {
+public class Gop_mang {
     public static void main(String[] args) {
         //khai báo và khởi tạo giá trị cho các phần tử của hai mảng array1 và array2
         int[] array1 = {1, 2, 3};

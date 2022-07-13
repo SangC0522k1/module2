@@ -1,4 +1,4 @@
-public class them_phan_tu_trong_mang {
+public class Them_phan_tu_trong_mang {
         public static void main(String[] args) {
             int size = 20; // Suc chua cua mang
             int[] arr = new int[size];

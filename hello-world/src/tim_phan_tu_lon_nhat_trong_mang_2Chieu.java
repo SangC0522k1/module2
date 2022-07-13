@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tim_phan_tu_lon_nhat_trong_mang_2Chieu {
+public class Tim_phan_tu_lon_nhat_trong_mang_2Chieu {
     public static void main(String[] args) {
         int m, n;
 

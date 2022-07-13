@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bac_1 {
+public class Bac_1 {
     public static void main(String[] args) {
         System.out.println("bộ phân giải phương trình tuyến");
         System.out.println("Biểu thức sau 'a * x + b = c',vui lòng nhập hằng số:");

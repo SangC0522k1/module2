@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class menu_ung_dung {
+public class Menu_ung_dung {
     public static void main(String[] args) {
         int sc = -1;
         Scanner input = new Scanner(System.in);
