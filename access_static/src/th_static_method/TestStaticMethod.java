@@ -1,6 +1,4 @@
-package static_method;
-
-import javax.sound.midi.Soundbank;
+package th_static_method;
 
 public class TestStaticMethod {
     public static void main(String[] args) {

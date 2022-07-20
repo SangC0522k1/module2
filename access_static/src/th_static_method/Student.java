@@ -1,4 +1,4 @@
-package static_method;
+package th_static_method;
 
 public class Student {
     private int rollno;
