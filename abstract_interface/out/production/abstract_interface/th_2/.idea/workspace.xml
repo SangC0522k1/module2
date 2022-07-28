@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b59468dc-9554-4bf3-a9db-280cf9bf15df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BT_A_CU/src/abstract_trong_java/HinhHoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT_A_CU/src/abstract_trong_java/HinhHoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT_A_CU/src/abstract_trong_java/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT_A_CU/src/abstract_trong_java/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT_A_CU/src/demo/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT_A_CU/src/demo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT_A_CU/src/demo/InheritanceSample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT_A_CU/src/demo/InheritanceSample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_fan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_fan/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_fan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_fan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_quadraticEquation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_quadraticEquation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_quadraticEquation/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_quadraticEquation/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_stopwatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_stopwatch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_stopwatch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/bt_stopwatch/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/th/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/th/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP_HDT/src/th/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP_HDT/src/th/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/bac_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/bac_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/bien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/bien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/boi_chung_nho_nhat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/boi_chung_nho_nhat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/can_nang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/can_nang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/chuyen_doi_nhiet_do.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/chuyen_doi_nhiet_do.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/dao_nguoc_phan_tu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/dao_nguoc_phan_tu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/dem_so_lan_xuat_hien_ky_tu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/dem_so_lan_xuat_hien_ky_tu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/gop_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/gop_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/hien_thi_cac_N_nho_hon_100.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/hien_thi_cac_N_nho_hon_100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/loi_chao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/loi_chao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/menu_ung_dung.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/menu_ung_dung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/nam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/nam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/nam_nhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/nam_nhuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/so_chu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/so_chu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/so_nguyen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/so_nguyen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/them_phan_tu_trong_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/them_phan_tu_trong_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tien_lai.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tien_lai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tien_te.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tien_te.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_lon_nhat_trong_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_lon_nhat_trong_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_nho_nhat_trong_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_nho_nhat_trong_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_trong_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_gia_tri_trong_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_phan_tu_lon_nhat_trong_mang_2Chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_phan_tu_lon_nhat_trong_mang_2Chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_phan_tu_nho_nhat_trong_mang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tim_phan_tu_nho_nhat_trong_mang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tinh_tong_cac_so_ma_tran_vuong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tinh_tong_cac_so_ma_tran_vuong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tinh_tong_cac_so_o_mot_cot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/tinh_tong_cac_so_o_mot_cot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/toan_tu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/toan_tu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/ung_dung_dem_so.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/ung_dung_dem_so.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/uoc_chung_lon_nhat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/out/production/hello-world/uoc_chung_lon_nhat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/Math1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/bt_chan_le.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/btkt_so_ngay_trong_thang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/if_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/mang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/phuong_trinh_bac_hai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/re_nhanh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/vong_lap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/out/production/titv.VN/vong_lap_while1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hello-world/src/menu_ung_dung.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hello-world/src/menu_ung_dung.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CTbocpM1XsxX86qsHwNYzrZcST" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/MD2/abstract_interface/src/th_3"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b59468dc-9554-4bf3-a9db-280cf9bf15df" name="Changes" comment="" />
+      <created>1658829697277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658829697277</updated>
+      <workItem from="1658829698605" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

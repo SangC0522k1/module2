@@ -1,6 +1,6 @@
-package th_2.Circle;
+package bt_resizeable;
 
-public class Circle extends Shape {
+public class Circle extends Shape implements Resizeable{
     private double radius = 1.0;
 
     public Circle() {
@@ -10,13 +10,10 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
-
-
     public Circle(double radius, String color, boolean filled) {
         super(color,filled);
         this.radius = radius;
     }
-
 
     public double getRadius() {
         return radius;
@@ -27,7 +24,7 @@ public class Circle extends Shape {
     }
 
     public double getArea() {
-        return radius * radius * Math.PI;
+        return Math.PI * radius * radius;
     }
 
     public double getPerimeter() {
@@ -37,8 +34,13 @@ public class Circle extends Shape {
     @Override
     public String toString() {
         return "A Circle with radius="
-                + getRadius() + " "
-                + "color= " + getColor() + " "
+                + getRadius()
+                + ", which is a subclass of "
                 + super.toString();
+    }
+
+    @Override
+    public void resizeable(double percent) {
+        radius = radius * percent;
     }
 }

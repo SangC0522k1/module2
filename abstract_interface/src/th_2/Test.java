@@ -9,6 +9,8 @@ public class Test {
       circles[1] = new ComparableCircle();
       circles[2] = new ComparableCircle(3.5,"indigo", false);
 
+      Arrays.sort(circles);
+
         System.out.println("Pre-sorted:");
         for (ComparableCircle circle : circles) {
             System.out.println(circle);

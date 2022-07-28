@@ -1,5 +1,6 @@
 package th_2;
 
+
 import th_2.Circle.Circle;
 
 public class ComparableCircle extends Circle implements Comparable <ComparableCircle> {
@@ -11,7 +12,7 @@ public class ComparableCircle extends Circle implements Comparable <ComparableCi
     }
 
     public ComparableCircle(double radius, String color, boolean filled) {
-        super(radius, color, filled);
+        super(radius,color,filled);
     }
 
     @Override
