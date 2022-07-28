@@ -1,6 +1,6 @@
 package bt_resizeable;
 
-public class Rectangle extends Shape implements Resizeable{
+public  class Rectangle extends Shape implements Resizeable{
     private double width = 1.0;
     private double length = 1.0;
 
@@ -55,5 +55,9 @@ public class Rectangle extends Shape implements Resizeable{
     public void resizeable(double percent) {
         width = width * percent;
         length = length * percent;
+    }
+
+    public void howtoColor() {
+
     }
 }

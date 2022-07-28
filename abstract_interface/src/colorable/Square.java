@@ -1,6 +1,9 @@
-package bt_resizeable;
+package colorable;
 
-public  class Square extends Rectangle implements Resizeable {
+import bt_resizeable.Rectangle;
+
+
+public class Square extends Rectangle implements Cloneable{
     public Square() {
 
     }
@@ -41,9 +44,8 @@ public  class Square extends Rectangle implements Resizeable {
     }
 
     @Override
-    public void resizeable(double percent) {
-        super.resizeable(percent);
+    public void howtoColor() {
+        System.out.println("Color all four sides..");
     }
-
-
 }
+
