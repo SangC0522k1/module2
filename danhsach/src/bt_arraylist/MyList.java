@@ -16,10 +16,23 @@ public class MyList<E> {
     }
 
     public void add(int index, E element) {
-        if (size == elements.length) {
-            ensureCapacity();
+        if (index > elements.length) {
+            throw new IllegalArgumentException("index: " + index);
+        }else if (elements.length == size) {
+            this.ensureCapacity(5);
         }
-        elements[size++] = element;
+        if (elements[index] ==null) {
+//            elements[index] == element;
+            size++;
+
+        }else {
+            for (int i = size+1; i >= index; i--) {
+                elements[i] = elements[i-1];
+
+            }
+            elements[index] = element;
+            size++;
+        }
     }
 
     private void checkIndex(int index) {
@@ -59,13 +72,23 @@ public class MyList<E> {
         return -1;
     }
 
-    public boolean add(E e) {
+    public boolean add(E element) {
+       if (elements.length == size) {
+           this.ensureCapacity(5);
+       }
+       elements[size] = element;
+       size++;
         return false;
     }
 
-    public void ensureCapacity() {
-        int newSize = elements.length * 2;
-        elements = Arrays.copyOf(elements, newSize);
+    public void ensureCapacity(int minCapasity) {
+       if (minCapasity >= 0) {
+           int newSize = this.elements.length + minCapasity;
+           elements = Arrays.copyOf(elements, newSize);
+       }else {
+           throw new IllegalArgumentException("minCapasity: " + minCapasity);
+       }
+
     }
 
     public int lastIndexOf(E e) {
@@ -84,8 +107,10 @@ public class MyList<E> {
     }
 
     public void clear() {
-        elements = (E[]) new Object[DEFAULT_CAPACITY];
         size = 0;
+        for (int i = 0; i < elements.length; i++) {
+            elements[i] = null;
+        }
     }
 
     public void printMyList() {
