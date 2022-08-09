@@ -1,4 +1,6 @@
-package collection_framework;
+package collection_framework.service;
+
+import collection_framework.model.Product;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,12 +12,12 @@ public class ProductManager {
     private ArrayList<Product> products= new ArrayList<>();
 
     public ProductManager(){
-        products.add(new Product(10000, "Tesla", 10, 100));
-        products.add(new Product(10001, "Volvo", 7, 99));
-        products.add(new Product(10002, "BMW", 4, 150));
-        products.add(new Product(10003, "Mercedes", 6, 110));
-        products.add(new Product(10004, "Honda CRV", 2, 30));
-        products.add(new Product(10005, "Ferrari Limited :)))", 1, 200));
+        products.add(new Product(1250, "Adidas", 15, 95));
+        products.add(new Product(1356, "Balance", 20, 150));
+        products.add(new Product(1451, "Supreme", 10, 150));
+        products.add(new Product(1364, "Converse", 7, 110));
+        products.add(new Product(1951, " Vans", 2, 30));
+        products.add(new Product(2501, "Valentino", 1, 200));
     }
     public void renderProduct(){
         System.out.printf("\n\t%-16s %-36s %-26s %s\n\n", "Product ID", "Product Name", "Product Quantity", "Product Price");

@@ -1,14 +1,13 @@
-package collection_framework;
+package collection_framework.view;
 
 import collection_framework.service.ProductManager;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Productview {
+    public void Productview() {
         ProductManager productManager = new ProductManager();
         Scanner scanner = new Scanner(System.in);
-
         while (true) {
             System.out.println("|------------------------------------------------------------|" +
                     "\n|                                                            |" +
@@ -64,4 +63,5 @@ public class Main {
             }
         }
     }
+
 }

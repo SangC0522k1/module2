@@ -1,4 +1,4 @@
-package collection_framework;
+package collection_framework.model;
 
 public class Product {
     private String name;
